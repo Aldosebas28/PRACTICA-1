@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "18_TUPLAS", "18_TUPLAS\18_TUPLAS.pyproj", "{7B7FBEF7-CD3F-42D5-8D8D-3CA7B360A770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7FBEF7-CD3F-42D5-8D8D-3CA7B360A770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7FBEF7-CD3F-42D5-8D8D-3CA7B360A770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76569E7D-2BC0-4727-9CA0-267C6CC5B785}
+	EndGlobalSection
+EndGlobal
