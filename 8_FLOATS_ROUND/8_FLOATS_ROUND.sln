@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "8_FLOATS_ROUND", "8_FLOATS_ROUND\8_FLOATS_ROUND.pyproj", "{51738664-AC58-45A7-BD4C-35BA39B5C65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51738664-AC58-45A7-BD4C-35BA39B5C65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51738664-AC58-45A7-BD4C-35BA39B5C65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5AE75F0-8D96-4C4E-B938-2B2D7F6C0715}
+	EndGlobalSection
+EndGlobal
